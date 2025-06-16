@@ -2,10 +2,10 @@
 Projeto de análise de dados com Python para a Alura Store, desenvolvido no programa Oracle Next Education + Alura. Utiliza Pandas e Matplotlib para explorar dados de vendas, avaliações, categorias, frete e identificar a melhor loja com base em métricas reais.
 
 
-##📄**README.md para o Projeto “Alura Store”**
+#**README.md para o Projeto “Alura Store”**
 
 ```markdown
-# 🛒 Alura Store – Análise de Dados com Python
+#Alura Store – Análise de Dados com Python
 
 Este repositório contém o projeto **Alura Store**, uma análise exploratória de dados desenvolvida como parte dos estudos do programa **Oracle Next Education + Alura**. O objetivo do projeto é aplicar conceitos de **ciência de dados com Python**, utilizando bibliotecas como `pandas` e `matplotlib` para extrair insights de vendas, categorias, avaliações e mais.
 
