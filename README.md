@@ -21,7 +21,7 @@ alura-store
 - **Média de Avaliação**: avaliação média dos clientes por local de compra.
 - **Produtos Mais e Menos Vendidos**: identificação dos extremos de volume de vendas.
 - **Frete Médio por Loja**: média do custo de frete por estado.
-- **Por que SP é a Melhor Loja**: comparação com base em métricas-chave.
+
 ## 🚀 Tecnologias Utilizadas
 
 - Python 3 (Google Colab)
