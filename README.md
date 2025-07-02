@@ -4,20 +4,20 @@
 
 Este repositório contém o projeto **Alura Store**, uma análise exploratória de dados desenvolvida como parte dos estudos do programa **Oracle Next Education + Alura**. O objetivo do projeto é aplicar conceitos de **ciência de dados com Python**, utilizando bibliotecas como `pandas` e `matplotlib` para extrair insights de vendas, categorias, avaliações e mais.
 
-> 📚 Projeto de Estudo – Oracle Next Education + Alura
+>  Projeto de Estudo – Oracle Next Education + Alura
 alura-store
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtp/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajtoriani)
 
- ## 📊 Objetivo do Projeto
+ ## Objetivo do Projeto
 
 - Analisar dados de vendas da loja fictícia Alura Store.
 - Aplicar fundamentos de análise de dados com Python.
 - Utilizar visualizações para comunicar insights de negócio.
 - Praticar habilidades com Pandas, Matplotlib e manipulação de dados.
 
-  ## 🔍 Análises Realizadas
+  ##  Análises Realizadas
 
 - **Análise de Faturamento**: cálculo do faturamento total por loja.
 - **Vendas por Categoria**: distribuição de vendas por categoria de produto.
@@ -25,14 +25,14 @@ alura-store
 - **Produtos Mais e Menos Vendidos**: identificação dos extremos de volume de vendas.
 - **Frete Médio por Loja**: média do custo de frete por estado.
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - Python 3 (Google Colab)
 - `pandas` – para análise e manipulação de dados.
 - `matplotlib` – para criação de gráficos e visualizações.
 
   
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ├── alura\_store\_analise.ipynb     # Notebook com toda a análise
 
@@ -41,7 +41,7 @@ alura-store
 ├── requirements.txt              # Dependências (pandas, matplotlib)
 
 
-## 📌 Requisitos
+##  Requisitos
 
 - Python 3.7+
 - pip
@@ -50,7 +50,7 @@ alura-store
 ---------
 
 
-## 💻 Como Executar o Projeto
+##  Como Executar o Projeto
 
 1. **Clone este repositório**:
 
