@@ -108,5 +108,6 @@ Desenvolvido por Ana Julia Toriani Pessoa durante os estudos com **Alura + Oracl
 Projeto educacional sem fins comerciais.
 
 ---
-
-
+<p align="center">
+  <img src="https://github.com/ajtoriani/Alura-Store/blob/main/alurastorelogo.png" alt="Capa do Projeto Alura Store" width="600"/>
+</p>
